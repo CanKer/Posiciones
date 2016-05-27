@@ -12,6 +12,7 @@ package posiciones;
 public class Arreglo {
     
     char arreglo [] = new char[10];
+    String hola = "hola";
     
     public Arreglo()    {
         cambiaValor(0,this.arreglo);
